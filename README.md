@@ -1,4 +1,4 @@
-# UBUNTU SETUP
+# DOTFILES
 ## Description
 
 Quick script for fast deployment of my development config.</br>
