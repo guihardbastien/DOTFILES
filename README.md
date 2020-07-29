@@ -1,8 +1,6 @@
 # DOTFILES
 ## Description
-
-Quick script for fast deployment of my development config.</br>
-Meant for Ubuntu.
+Personal config files
 
 ## Overview
 ![FAST](https://media.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif)
@@ -15,13 +13,6 @@ Meant for Ubuntu.
 │       └── coc-settings.json
 ├── deploy.sh
 └── README.md
-```
-
-### How to use?
-* Download zip
-* Execute as root :
-```bash
-sudo bash deploy.sh
 ```
 
 ## License
