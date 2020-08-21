@@ -1,3 +1,4 @@
 # Dev aliases
 echo "alias lint_me='npx tslint --fix -p tsconfig.json'" >> ~/.bashrc
 echo "alias sysupdate='sudo apt update && sudo apt upgrade -y'" >> ~/.bashrc
+echo "alias zzz_now='sudo shutdown now'" >> ~/.bashrc
